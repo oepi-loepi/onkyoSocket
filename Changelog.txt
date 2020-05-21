@@ -1,0 +1,24 @@
+1.0.7
+Minor change in saving of config file
+
+1.0.6
+Changed layout for Toon 2. All tested on Toon1 and Toon2
+
+1.0.5
+  - HEX function added so user can add 1 to 20 into the radio presed input field instead of calculation HEX values.
+
+1.0.4
+  - radiostation number selection added in config file, config screen, tile and app
+
+1.0.3
+  - minor bugfixes solved.
+
+1.0.2
+ - minor bugfixes solved.
+
+1.0.1
+ - title of app changed into onkyocontroller
+
+1.0.0
+- First Release:
+
