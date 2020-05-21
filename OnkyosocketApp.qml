@@ -1,5 +1,5 @@
 //
-// Onkyoesp v1.0.7 by Oepi-Loepi
+// OnkyoSocket by Oepi-Loepi
 //
 
 import QtQuick 2.1
