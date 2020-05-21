@@ -1,3 +1,6 @@
+2.0.0
+New version, websocket ISCP based. ESP8266 needed
+
 1.0.7
 Minor change in saving of config file
 
