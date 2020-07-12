@@ -120,7 +120,7 @@ function makeHex(statnr) {
 
 	Text {
 		id: myLabel
-		text: "URL to Domoticz (example: http://192.168.10.65)"
+		text: "URL to esp8266 controller (example: http://192.168.10.65)"
 		font.pixelSize:  isNxt ? 20 : 16
 		font.family: qfont.regular.name
 
@@ -137,7 +137,7 @@ function makeHex(statnr) {
 		width: parent.width - 40
 		height: 35
 		leftTextAvailableWidth: 300
-		leftText: "Domoticz URL"
+		leftText: "URL to esp8266 controller"
 
 		anchors {
 			left: myLabel.left
@@ -146,7 +146,7 @@ function makeHex(statnr) {
 		}
 
 		onClicked: {
-			qkeyboard.open("URL to Domoticz incl. Port", espURL.inputText, saveespURL)
+			qkeyboard.open("URL to esp8266 controller", espURL.inputText, saveespURL)
 		}
 	}
 
